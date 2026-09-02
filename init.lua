@@ -123,7 +123,7 @@ lazy.setup({
         "nvim-tree/nvim-web-devicons", -- optional, but recommended
       },
       lazy = false, -- neo-tree will lazily load itself
-    }
+    },
   },
   opts_extend = { "sources.default" },
   checker = { enabled = true },
